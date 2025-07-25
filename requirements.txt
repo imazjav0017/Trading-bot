@@ -1,2 +1,2 @@
 Flask==2.3.2
-oandapyV20==0.7.3
+oandapyV20==0.7.2
